@@ -1,0 +1,51 @@
+id,name,age,department,salary,joining_date,performance_score,city
+1, Akshay ,25,Data Science,50000,2022-01-15,8.5,Delhi
+2,rahul,27,Data science,52000,15/02/2022,7.8,Mumbai
+3,Sneha,,HR,45000,2021-12-01,6.5,Bangalore
+4,AMIT,30,Finance,not available,2020-11-20,9.1,Delhi
+5,Neha,22,hr,40000,2023-03-10,5.5,Mumbai
+6,rohit,29,Data Science,58000,2022/05/18,,Pune
+7,Karan,-25,Finance,60000,2021-07-25,8.0,Delhi
+8,,28,Marketing,48000,2020-09-30,7.0,Kolkata
+9,Pooja,26,marketing,47000,2021-10-05,6.8,Kolkata
+10,Ankit,31,Data Science,65000,2020-08-15,9.5,Delhi
+11,akshay,25,Data Science,50000,2022-01-15,8.5,Delhi
+12,Riya,24,HR,42000,2022-06-20,7.2,Mumbai
+13,Vikas,35,Finance,70000,invalid_date,8.9,Pune
+14,Meena,29,Marketing,52000,2021-03-12,6.0,Bangalore
+15,Arjun,33,Data science,68000,2020-04-18,9.0,Delhi
+16,Kriti,27,,54000,2022-07-11,7.5,Delhi
+17,Manish,45,Finance,120000,2018-01-01,9.8,Mumbai
+18,Simran,23,HR,39000,2023-01-15,5.9,Delhi
+19,Varun,38,Data Science,85000,2019-11-23,8.7,Pune
+20,Tina,26,Marketing,50000,2021-08-19,6.4,Kolkata
+21,Aman,28,HR,46000,2022-02-28,7.1,Mumbai
+22,Rohit,29,Data Science,58000,2022-05-18,NaN,Pune
+23,Sneha,27,HR,45000,2021-12-01,6.5,Bangalore
+24,Anjali,32,Finance,72000,2020-09-09,9.2,Delhi
+25,Kunal,34,Data Science,80000,2019-06-30,8.8,Mumbai
+26,Deepak,40,Finance,95000,2018-07-22,9.3,Pune
+27,Priya,21,Marketing,38000,2023-02-14,5.2,Kolkata
+28,Neeraj,36,Data science,87000,2019-03-11,8.6,Delhi
+29,Payal,28,HR,47000,2022-08-25,7.0,Mumbai
+30,Sumit,31,Finance,not available,2020-10-10,8.4,Pune
+31,Divya,25,Marketing,45000,2022-09-05,6.3,Kolkata
+32,Raj,37,Data Science,91000,2019-12-12,8.9,Delhi
+33,Komal,24,HR,42000,2023-04-01,5.8,Mumbai
+34,Yash,29,Finance,67000,2021-01-19,8.1,Pune
+35,Shreya,26,Marketing,49000,2021-11-11,6.7,Kolkata
+36,Aditya,33,Data Science,78000,2020-06-06,9.0,Delhi
+37,Nikita,27,HR,46000,2022-03-17,7.3,Mumbai
+38,Sachin,39,Finance,99000,2018-05-25,9.4,Pune
+39,Alok,35,Data Science,88000,2019-02-14,8.5,Delhi
+40,Ritu,23,Marketing,40000,2023-05-05,5.6,Kolkata
+41,Gaurav,41,Finance,105000,2017-09-09,9.6,Mumbai
+42,Pankaj,30,Data Science,64000,2021-04-04,8.2,Delhi
+43,Swati,28,HR,48000,2022-10-10,7.4,Mumbai
+44,Ajay,36,Finance,92000,2019-08-08,8.7,Pune
+45,Rekha,25,Marketing,45000,2022-12-12,6.2,Kolkata
+46,Vinay,34,Data Science,82000,2020-03-03,8.9,Delhi
+47,Seema,29,HR,47000,2022-11-11,7.1,Mumbai
+48,Harsh,32,Finance,73000,2021-02-02,8.3,Pune
+49,Kavya,26,Marketing,50000,2021-07-07,6.5,Kolkata
+50,Om,38,Data Science,89000,2019-01-01,8.8,Delhi
