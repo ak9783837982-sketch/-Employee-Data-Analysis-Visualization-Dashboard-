@@ -8,7 +8,7 @@ def remove_outliers(col):
     upper = q3 + 1.5*iqr
     return col.where((col >= lower) & (col <= upper))
 
-df=pd.read_csv(r"C:\Users\catwi\OneDrive\Desktop\New folder\hard_dataset.csv")
+df=pd.read_csv("hard_dataset.csv")
 
 df["name"]=df["name"].str.strip().str.lower()
 df["name"]=df["name"].fillna("unknown")
